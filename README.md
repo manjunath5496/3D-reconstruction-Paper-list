@@ -78,6 +78,8 @@
 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(44).pdf" style="text-decoration:none;">Towards Linear-time Incremental Structure from Motion</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/dre(45).pdf" style="text-decoration:none;">Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone</a></b></li>  
 </ul>
 
 
